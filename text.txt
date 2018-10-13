@@ -1,0 +1,3 @@
+# удалить cd github_example
+# cd ../
+# rm -rf ./python_course
